@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    color: white;
+}
+
+
+p {
+    color: white;
+}
+
+#btn1 {
+    position: absolute;
+    top: 8rem;
+    right: 4rem;
+}
+
+#btn2 {
+    position: absolute;
+    bottom: 3rem;
+    left: 2rem;
+}
+
+#btn3 {
+    position: absolute;
+    top: 2rem;
+    left: 20rem;
+}
+
+#btn4 {
+    position: absolute;
+    bottom: 5rem;
+    right: 1rem;
+}
+
+#btn5 {
+    position: absolute;
+    bottom: 25rem;
+    left: 0.1rem;
+}
